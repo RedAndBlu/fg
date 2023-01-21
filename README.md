@@ -1,2 +1,1 @@
-# fg
-deploy with githun pages
+# Deploy [game](https://redandblu.github.io/fg/)
